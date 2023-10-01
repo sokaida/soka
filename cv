@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CV - Khov Sokha</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			line-height: 1.5;
+			color: #333;
+			margin: 0;
+			padding: 0;
+		}
+		h1, h2, h3 {
+			margin: 0;
+			padding: 0;
+		}
+		.container {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+		}
+		.section {
+			margin-bottom: 20px;
+		}
+		.section-title {
+			font-size: 24px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+		.section-content {
+			font-size: 18px;
+			margin-bottom: 10px;
+		}
+		.section-content ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+		}
+		.section-content li {
+			margin-bottom: 5px;
+		}
+		.section-content p {
+			margin: 0;
+			padding: 0;
+		}
+		.section-content a {
+			color: #333;
+			text-decoration: none;
+		}
+		.section-content a:hover {
+			text-decoration: underline;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<header>
+			<h1>KHOV SOKHA</h1>
+			<p>Teuk Thla Commune, Sen Sok District, Phnom Penh</p>
+			<p>Tel: 0968830025 | Email: boykhaa999@gmail.com</p>
+		</header>
+		<section class="section">
+			<h2 class="section-title">Personal Information</h2>
+			<div class="section-content">
+				<ul>
+					<li><strong>Sex:</strong> Male</li>
+					<li><strong>Marital Status:</strong> Single</li>
+					<li><strong>Date of Birth:</strong> 12 June 2005</li>
+					<li><strong>Place of Birth:</strong> Cheung Prey District, Kampong Cham Province, Cambodia</li>
+					<li><strong>Nationality:</strong> Khmer</li>
+					<li><strong>Health:</strong> Good</li>
+				</ul>
+			</div>
+		</section>
+		<section class="section">
+			<h2 class="section-title">Work Experience</h2>
+			<div class="section-content">
+				<p>Helping family as Restaurant (Never Experienced Anywhere else)</p>
+			</div>
+		</section>
+		<section class="section">
+			<h2 class="section-title">Education</h2>
+			<div class="section-content">
+				<ul>
+					<li>Poi pet Krong High School (2011-2022): General knowledge</li>
+					<li>National University of Management (2023-now): Bachelor of Information of Technology</li>
+				</ul>
+			</div>
+		</section>
+		<section class="section">
+			<h2 class="section-title">Languages</h2>
+			<div class="section-content">
+				<ul>
+					<li>Khmer: Native Language</li>
+					<li>English: Fair (Reading, Listening, Writing, and Speaking)</li>
+				</ul>
+			</div>
+		</section>
+		<section class="section">
+			<h2 class="section-title">Computer Skills</h2>
+			<div class="section-content">
+				<ul>
+					<li>Ms. Word</li>
+					<li>Ms. Excel</li>
+					<li>Ms. Powerpoint</li>
+				</ul>
+			</div>
+		</section>
+		<section class="section">
+			<h2 class="section-title">Hobbies and Leisure Time</h2>
+			<div class="section-content">
+				<ul>
+					<li>Reading General Book</li>
+					<li>Listening to Music</li>
+					<li>Research</li>
+				</ul>
+			</div>
+		</section>
+		<footer>
+			<p>Have good communication and friendly.</p>
+		</footer>
+	</div>
+</body>
+</html>
